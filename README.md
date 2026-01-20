@@ -23,7 +23,7 @@ A powerful Lightroom Classic plugin designed for photographers who need real-tim
 
 ## Usage
 
-1. Go to **File > Plugin Extras > Realtime Export Settings** (or where the menu item is located).
+1. Go to **Library > Plugin Extras > Realtime Export** (or where the menu item is located).
 2. **Settings Dialog**:
    - **Monitor Tethering**: Check this to enable monitoring.
    - **Delay (seconds)**: Set the wait time before export. 
